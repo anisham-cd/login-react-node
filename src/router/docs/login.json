@@ -1,0 +1,37 @@
+[
+  {
+    "firstName": "Anisha",
+    "lastName": "J",
+    "email": "anishaprakash2000@gmial.com",
+    "password": "xxxx",
+    "id": 1
+  },
+  {
+    "firstName": "Pavi",
+    "lastName": "devi",
+    "email": "pavi@cd.com",
+    "password": "ccccc",
+    "id": 2
+  },
+  {
+    "firstName": "Anisha",
+    "lastName": "J",
+    "email": "anishaprakash2000@gmail.com",
+    "password": "xxxcxxxc",
+    "id": 3
+  },
+  {
+    "firstName": "Hari",
+    "lastName": "sudhan",
+    "email": "harit@gmail.com",
+    "password": "hhhhh",
+    "id": 4
+  },
+  {
+    "firstName": "Xx",
+    "lastName": "xxx",
+    "email": "xx",
+    "password": "xxx",
+    "id": 5
+  }
+]
